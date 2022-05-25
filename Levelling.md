@@ -1,4 +1,4 @@
-# Note: This page wont be complete until the level rewards update is completed.
+### Note: This page wont be complete until the level rewards update is completed.
 
 ## Levelling System
 
