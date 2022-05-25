@@ -1,5 +1,5 @@
 # Uber Driver Mod
-The Uber Driver Mod is a driving mod for GTA V which expands the casual Taxi system with 80+ custom drop-off locations, high clientele rides, and more.
+The Uber Driver Mod is a driving mod for GTA V which expands the normal  Taxi system with 80+ custom drop-off locations, high clientele rides, and more.
 
 It is a revamped version of the old Uber Driver mod as it was outdated and did not run efficiently. 
 
