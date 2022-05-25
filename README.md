@@ -16,4 +16,4 @@ It is a revamped version of the old Uber Driver mod as it was outdated and did n
 * [How to install Uber Driver Revamped (2022) GTA 5 MODS](https://www.youtube.com/watch?v=0XgTytpKFPw) (Special thanks to skeeze415/Games & Graphics)
 
 ## Other Information
-* [Levelling System](https://github.com/chillnook/UberDriverInformation/blob/main/Levelling.md)
+* [Levelling System](https://github.com/chillnook/UberDriverInformation/blob/main/Levelling.md#levelling-system)
