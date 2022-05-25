@@ -1,4 +1,4 @@
-## Levelling Systme
+## Levelling System
 
 You may be wondering, how does the levelling system work? Here's how!
 
