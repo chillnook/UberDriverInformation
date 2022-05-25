@@ -4,7 +4,8 @@ The Uber Driver Mod is a driving mod for GTA V which expands the normal  Taxi sy
 It is a revamped version of the old Uber Driver mod as it was outdated and did not run efficiently. 
 
 ## Download
-* [Uber Driver Mod](https://www.gta5-mods.com/scripts/uber-driver-revamped)
+* [GTA5 Mods](https://www.gta5-mods.com/scripts/uber-driver-revamped)
+* [GitHub](https://github.com/chillnook/UberDriverInformation/releases/tag/Alpha)
 
 ## Required Mods
 * [LemonUI](https://github.com/LemonUIbyLemon/LemonUI/releases)
