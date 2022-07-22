@@ -22,4 +22,4 @@ It is a revamped version of the old Uber Driver mod as it was outdated and did n
 ## Other Information
 * [Levelling System](https://github.com/chillnook/UberDriverInformation/blob/main/Levelling.md#levelling-system)  
   
-This mod is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Uber. All product and company names are the registered trademarks of their original owners. If necessitated, a name change will occur.
+This mod is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Uber. All product and company names are the registered trademarks of their original owners. If necessitated, a name change will ensue.
